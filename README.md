@@ -77,7 +77,7 @@
 <h3 align="left">Find me on:</h3>
 <p align="left">
 
-<a href="www.linkedin.com/in/samadhi-dewmini-119a4b221" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BHOwDGcKrQKWUiyEYNI97VQ%3D%3D" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <hr>
