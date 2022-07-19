@@ -3,7 +3,7 @@
 <hr>
 
 - 🎓 I’m currently a Final-Year Software Engineering Undergraduate at <b>University of Plymouth, UK</b>
-- 📚 I’m currently learning <b>MERN Stack Development</b> & <b> Software Project Management</b>
+- 📚 I’m currently learning <b>Full Stack Development</b> & <b> Software Project Management</b>
 - 🌺 I’m interested in collaborating on <b>Open Source Projects</b>
 <hr>
 
