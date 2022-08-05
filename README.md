@@ -1,5 +1,5 @@
 ### Hello there 👋 I am Samadhi Dewmini 😊
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samadhidew&color=brightgreen" alt="NishuDissanayake" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samadhidew&color=brightgreen" alt="samadhidew" /> </p>
 <hr>
 
 - 🎓 I’m currently a Final-Year Software Engineering Undergraduate at <b>University of Plymouth, UK</b>
