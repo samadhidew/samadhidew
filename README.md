@@ -75,7 +75,7 @@
 </p>
 <hr>
 
-![Samadhi's github stats](https://github-readme-stats.vercel.app/api?username=samadhidew&layout=compact&langs_count=8&theme=light)
+![Samadhi's github stats](https://github-readme-stats.vercel.app/api?username=samadhidew&layout=compact&langs_count=8&theme=dark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samadhidew&layout=compact&langs_count=8&theme=dark)
@@ -83,7 +83,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samadhidew" alt="" /></p>
 <hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samadhidew" alt="tharindu97" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samadhidew" alt="samadhidew" /></a> </p>
 <hr>
 
 <h3 align="left">Find me on:</h3>
