@@ -75,8 +75,8 @@
 </p>
 <hr>
 
-![Samadhi's github stats](https://github-readme-stats.vercel.app/api?username=samadhidew&layout=compact&langs_count=8&theme=dark)
-<hr>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharindu97&show_icons=true&locale=en" alt="samadhidew" /></p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samadhidew&layout=compact&langs_count=8&theme=dark)
 <hr>
