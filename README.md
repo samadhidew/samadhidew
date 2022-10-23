@@ -75,7 +75,7 @@
 </p>
 <hr>
 
-<p>&nbsp;<img align="center" theme="dark" src="https://github-readme-stats.vercel.app/api?username=samadhidew&show_icons=true&locale=en" alt="samadhidew" /></p>
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=samadhidew&show_icons=true&locale=en&theme=dark" alt="samadhidew" /></p>
 
 
 
