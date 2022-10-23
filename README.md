@@ -77,7 +77,7 @@
 
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=samadhidew&show_icons=true&locale=en&theme=dark" alt="samadhidew" /></p>
 
-
+<hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samadhidew&layout=compact&langs_count=8&theme=dark)
 <hr>
