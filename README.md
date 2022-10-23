@@ -84,7 +84,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samadhidew" alt="" /></p>
 <hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samadhidew&theme="dark" alt="samadhidew" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samadhidew&theme=dark alt="samadhidew" /></a> </p>
 <hr>
 
 <h3 align="left">Find me on:</h3>
