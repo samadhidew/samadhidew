@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=100&lines=Hello+there+I'm+Samadhi+Dewmini+😊)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=400&lines=Hello+there+I'm+Samadhi+Dewmini+😊)](https://git.io/typing-svg)
 
 ### Hello there 👋 I am Samadhi Dewmini 😊
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samadhidew&color=brightgreen" alt="samadhidew" /> </p>
