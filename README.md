@@ -76,7 +76,7 @@
 </p>
 <hr>
 
-![Samadhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samadhi&show_icons=true&theme=radical)
+![Samadhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=samadhidew&show_icons=true&theme=radical)
 
 <hr>
 
