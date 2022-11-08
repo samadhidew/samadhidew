@@ -79,6 +79,8 @@
 ![Samadhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=samadhidew&show_icons=true&theme=radical)
 
 <hr>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samadhidew&theme=radical" alt="samadhidew" /></p>
+<hr>
 
 <h3 align="left">Find me on:</h3>
 <p align="center">
