@@ -79,7 +79,7 @@
 ![Samadhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=samadhidew&show_icons=true&theme=radical)
 
 <hr>
-![trophy](https://github-profile-trophy.vercel.app/?username=samadhidew&&theme=onedark)
+https://github-profile-trophy.vercel.app/?username=samadhidew&theme=dracula
 
 <hr>
 
