@@ -79,7 +79,7 @@
 ![Samadhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=samadhidew&show_icons=true&theme=radical)
 
 <hr>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=samadhidew&theme=onedark&https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
 <h3 align="left">Find me on:</h3>
