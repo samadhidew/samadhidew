@@ -80,7 +80,7 @@
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samadhidew&layout=compact&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samadhidew&layout=compact&langs_count=8&theme=radical)
 
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samadhidew&theme=radical" alt="samadhidew" /></p>
