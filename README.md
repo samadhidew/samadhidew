@@ -75,8 +75,11 @@
   
 </p>
 <hr>
+
 ![Samadhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=samadhidew&show_icons=true&theme=radical)
+
 <hr>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samadhidew&layout=compact&langs_count=8&theme=dark)
 
 <hr>
