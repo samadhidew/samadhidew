@@ -84,7 +84,7 @@
 
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samadhidew&theme=radical" alt="samadhidew" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=samadhidew&theme=radical" alt="samadhidew" /></p>
 
 <hr>
 
