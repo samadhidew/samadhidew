@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samadhidew&color=brightgreen" alt="samadhidew" /> </p>
 <hr>
 
-- 🎓 I’m currently a Final-Year Software Engineering Undergraduate at <b>University of Plymouth, UK</b>
+- 🎓 I’m a Software Engineering graduate at <b>University of Plymouth, UK</b>
 - 📚 I’m currently learning <b>Full Stack Development, Mern Stack Development</b> & <b> Software Project Management</b>
 - 🌺 I’m interested in collaborating on <b>Open Source Projects</b>
 <hr>
