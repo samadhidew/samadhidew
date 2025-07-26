@@ -1,4 +1,4 @@
-<strong>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E11AF3&background=2F6EC500&width=435&lines=Hello+there%F0%9F%91%8B+I'm+Samadhi+Dewmini+%F0%9F%98%8A)](https://git.io/typing-svg)</strong>
+<strong>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E11AF3&background=2F6EC500&width=435&lines=Hello+there%F0%9F%91%8B+I'm+Samadhi+Edirisinghe+%F0%9F%98%8A)](https://git.io/typing-svg)</strong>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samadhidew&color=brightgreen" alt="samadhidew" /> </p>
 <hr>
